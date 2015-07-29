@@ -1,0 +1,16 @@
+		<style>
+		p#first {
+			color: red;
+		}
+		.original {
+		font-size: 40px;
+		}
+		.new {
+			text-decoration: underline;
+		}
+		#header {
+			padding: 50px;
+			border: 20px solid; color: red;
+			margin: 30px;
+		}
+		</style>
